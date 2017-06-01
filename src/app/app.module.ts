@@ -10,7 +10,7 @@ import { IAppState, rootReducer, INITIAL_STATE } from './store';
 @NgModule({
   declarations: [
     AppComponent
-  ],
+ ],
   imports: [
     BrowserModule,
     FormsModule,

@@ -17,6 +17,6 @@ export class AppComponent {
   }
 
   increment() {
-    this.ngRedux.dispatch({type:INCREMENT});
+    this.ngRedux.dispatch({type: INCREMENT});
   }
 }
